@@ -20,7 +20,7 @@ By programming a device to detect fire hazards through machine learning, an aler
 
 #### Team Proposal
 
-Our group proposes the leverage a network of smart infrastructure consisting of an automated fire hazard detection system to spot potential fire hazards.
+Our group proposes to leverage a network of smart infrastructure consisting of an automated fire hazard detection system to spot potential fire hazards.
 
 ## 2. **Pitch Video**
 
