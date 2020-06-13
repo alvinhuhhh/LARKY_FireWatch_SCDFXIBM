@@ -1,5 +1,5 @@
 # LARKY
-Team Members: Leona, Alvin, Ronnie, Kexin, Yongjia
+# Team Members: Leona, Alvin, Ronnie, Kexin, Yongjia
 # (a) Fire hazards like a pileup of objects along the corridor and open flames in a kitchen can lead to a full flown fire. By programming a device to detect such fire hazards through machine learning, our group proposes the use of a automated fire hazard detection system to spot potential fire hazards.
 # (b) pitch video*
 # (c) architecture of solution: central server -> camera detectors -> cloud storage -> server
