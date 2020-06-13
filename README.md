@@ -32,8 +32,10 @@ Our group proposes to leverage a network of smart infrastructure consisting of a
 
 [logo]: https://github.com/alvinhuhhh/LARKY_SCDFXIBM/blob/master/architecture.jpg
 
-#
+1. Central Server feeds the camera with software to detect fire hazards
+2. Fire hazard is detected by camera
 
+#
 ## 4. **Hyperlink to detailed solution**
 
 ## 5. **Getting started** (Step-by-step instructions to install the required software and how to run a demo of your solution)
