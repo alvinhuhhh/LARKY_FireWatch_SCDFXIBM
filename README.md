@@ -27,8 +27,10 @@ Our group proposes to leverage a network of smart infrastructure consisting of a
 
 ## 3. **Architecture of solution** 
 
-![alt text] (
-central server -> camera detectors -> cloud storage -> server
+![alt text][logo]
+
+[logo]: https://github.com/alvinhuhhh/LARKY_SCDFXIBM/blob/master/architecture.jpg
+
 
 ## 4. **Hyperlink to detailed solution**
 
