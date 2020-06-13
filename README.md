@@ -7,7 +7,9 @@
 4. Hyperlink to detailed solution
 5. Getting started
 6. What we used to build the solution
-### 1. **Short Description**
+
+## 1. **Short Description**
+
 #### **Problem**
 
 Seemingly harmless household objects may not seem to be an issue. However a pile up of such objects along corridors or the staircase can actually be a fire hazard and potential cause of fire. More common, unattended open flames in the kitchen is also a great fire hazard. It is therefore imperative to identify such fire hazards and prevent a fire from even breaking out.
