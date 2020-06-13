@@ -1,5 +1,6 @@
 ## LARKY
-### Team Members: Leona, Alvin, Ronnie, Kexin, Yongjia
+### Team Members: 
+Leona, Alvin, Ronnie, Kexin, Yongjia
 ## **Contents**
 1. Short Description
 2. Pitch Video
