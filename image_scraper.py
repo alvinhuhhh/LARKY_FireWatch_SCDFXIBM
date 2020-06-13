@@ -105,10 +105,10 @@ def search_and_download(search_term:str,driver_path:str,target_path='./images',n
         persist_image(target_folder,elem)
 
 # Search parameters
-search_term = "fire"
+search_term = "blocked fire exit"
 search_and_download(
     search_term = search_term, 
     driver_path = DRIVER_PATH,
-    target_path = "C:/Users/atwb9/Downloads/scraper_test",
-    number_images = 5
+    target_path = "C:/Users/atwb9/Downloads/training_set",
+    number_images = 50
 )
