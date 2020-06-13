@@ -8,15 +8,15 @@
 5. Getting started
 6. What we used to build the solution
 ## 1. **Short Description**
-## **Problem**
+### **Problem**
 
 Fire hazards like a pile up of objects along the corridor and open flames in a kitchen can lead to a full flown fire. 
 
-## **How technology can help**
+### **How technology can help**
 
 By programming a device to detect fire hazards through machine learning. 
 
-## **Team Proposal**
+### **Team Proposal**
 
 Our group proposes the use of a automated fire hazard detection system to spot potential fire hazards.
 
