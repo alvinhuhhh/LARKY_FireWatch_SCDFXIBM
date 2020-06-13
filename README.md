@@ -20,16 +20,16 @@ By programming a device to detect fire hazards through machine learning, an aler
 
 Our group proposes the leverage a network of smart infrastructure consisting of an automated fire hazard detection system to spot potential fire hazards.
 
-### 2. **Pitch Video**
+## 2. **Pitch Video**
 
-### 3. **Architecture of solution** 
+## 3. **Architecture of solution** 
 
 central server -> camera detectors -> cloud storage -> server
 
-### 4. **Hyperlink to detailed solution**
+## 4. **Hyperlink to detailed solution**
 
-### 5. **Getting started** (Step-by-step instructions to install the required software and how to run a demo of your solution)
+## 5. **Getting started** (Step-by-step instructions to install the required software and how to run a demo of your solution)
 
-### 6. **What your team used to build your solution** (e.g. IBM Cloudant, IBM Cloud Functions, etc...)
+## 6. **What your team used to build your solution** (e.g. IBM Cloudant, IBM Cloud Functions, etc...)
 
 ## *Items marked with an asterisk are compulsory
