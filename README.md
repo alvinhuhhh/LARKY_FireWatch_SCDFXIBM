@@ -32,7 +32,7 @@ Our group proposes to leverage a network of smart infrastructure consisting of a
 
 [logo]: https://github.com/alvinhuhhh/LARKY_SCDFXIBM/blob/master/architecture.jpg
 
-1. Central Server feeds the camera with software to detect fire hazards
+1. Central Server feeds the camera with software to identify fire hazards
 2. Fire hazard is detected by camera
 
 #
