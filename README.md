@@ -14,7 +14,7 @@ Fire hazards like a pile up of objects along the corridor and open flames in a k
 
 #### How technology can help
 
-By programming a device to detect fire hazards through machine learning. 
+By programming a device to detect fire hazards through machine learning, an alert will be sent to the relevant stakeholders to inform them of the potential fire hazard in their possession. They will be reminded to address this fire hazard, hence there is reduced likelihood of a fire breaking out. 
 
 #### Team Proposal
 
