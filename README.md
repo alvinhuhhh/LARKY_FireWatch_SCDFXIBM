@@ -13,22 +13,29 @@ Leona, Alvin, Ronnie, Kexin, Yongjia
 
 #### **Problem**
 
-Seemingly harmless household objects may not seem to be an issue. However a pile up of such objects along corridors or the staircase can actually be a fire hazard and potential cause of fire. More common, unattended open flames in the kitchen is also a great fire hazard. It is therefore imperative to identify such fire hazards and prevent a fire from even breaking out.
-
+Seemingly harmless household objects may not seem to be an issue. However a pile up of such objects along corridors or the staircase can actually be a fire hazard and potential cause of fire. More commonly, unattended open flames in the kitchen is also a big fire hazard. It is therefore imperative to identify such fire hazards and prevent a fire from even breaking out.
+#
 #### How technology can help
 
 By programming a device to detect fire hazards through machine learning, an alert will be sent to the relevant stakeholders to inform them of the potential fire hazard in their possession. They will be reminded to address this fire hazard, hence there is reduced likelihood of a fire breaking out. 
-
+#
 #### Team Proposal
 
 Our group proposes to leverage a network of smart infrastructure consisting of an automated fire hazard detection system to spot potential fire hazards.
+#
 
 ## 2. **Pitch Video**
 
 ## 3. **Architecture of solution** 
 
-central server -> camera detectors -> cloud storage -> server
+![alt text][logo]
 
+[logo]: https://github.com/alvinhuhhh/LARKY_SCDFXIBM/blob/master/architecture.jpg
+
+1. Central Server feeds the camera with software to identify fire hazards
+2. Fire hazard is detected by camera
+
+#
 ## 4. **Hyperlink to detailed solution**
 
 ## 5. **Getting started** (Step-by-step instructions to install the required software and how to run a demo of your solution)
