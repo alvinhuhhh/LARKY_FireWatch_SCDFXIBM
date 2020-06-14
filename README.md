@@ -39,7 +39,7 @@ Our group proposes to leverage a network of smart infrastructure consisting of a
 1. Every 1 minute, the camera takes a photo of the site.
 2. The image is processed using the machine learning model made with IBM Watson Machine Learning Platform.
 3. The machine learning model will help to determine if the image data contains any fire hazard.
-4. The data is then uploaded to IBM Cloud Storage.
+4. The data is uploaded to Firebase Cloud Storage.
 5. Web app is then used to retrieve this data from the cloud.
 6. User can view this data on the app and be notified of the presence of fire hazard.
 
@@ -51,5 +51,6 @@ Our group proposes to leverage a network of smart infrastructure consisting of a
 ## 6. **What your team used to build your solution** (e.g. IBM Cloudant, IBM Cloud Functions, etc...)
 IBM Watson Machine Learning for localisation and detection.
 IBM Cloud Object Storage for storing data used to train our machine learning model.
+Firebase Cloud storage for image data to be uploaded to
 
 ## *Items marked with an asterisk are compulsory
