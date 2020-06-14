@@ -36,7 +36,7 @@ Our group proposes to leverage a network of smart infrastructure consisting of a
 
 [logo]: https://github.com/alvinhuhhh/LARKY_SCDFXIBM/blob/master/framework.jpg
 
-1. Every 5 minutes, the camera takes a photo of the site.
+1. Every 1 minute, the camera takes a photo of the site.
 2. The image is processed using the machine learning model made with IBM Watson Machine Learning Platform.
 3. The machine learning model will help to determine if the image data contains any fire hazard.
 4. The data is then uploaded to IBM Cloud Storage.
