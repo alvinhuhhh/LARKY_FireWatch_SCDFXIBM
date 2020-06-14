@@ -30,3 +30,11 @@ Relative Directory: /ui_src
 1. index.html is our simple web-based UI that is designed for google chrome
 2. retrieve.py script will handle the files downloading from Firebase
 3. ok_icon.png contains the photo for the default Green Tick, to show that there is no fire detected.
+
+## Main flow of events
+
+1. Camera take a photo of a location every 1 minute
+2. Photo compared against a model and results are uploaded to Firebase in a 1 minute interval
+
+1. UI Machine will download photos from Firebase every 10 seconds to ensure the UI is updated frequently.
+2. Photos will be shown on HTML if there is a fire detected, else a green tick will be shown. 
