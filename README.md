@@ -3,7 +3,7 @@
 Github repo for SCDF X IBM Lifesavers’ Innovation Challenge: Call for Code 2020
 
 ### Team Members: 
-Leona, Alvin, Ronnie, Kexin, Yongjia
+Leona, Alvin, Ronnie, Kexin, Yong Jia
 
 ## **Contents**
 1. Short Description
