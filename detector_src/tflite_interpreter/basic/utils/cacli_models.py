@@ -206,7 +206,7 @@ def detect_objects(model, IMAGE_PATH, CATEGORY_INDEX, ANCHOR_POINTS, MINIMUM_CON
       print("Image Saved")
       print("="*10)
     
-    # print(str(np.max(scores)))
+    
     
     CURRENT_PATH = os.getcwd()
     STATUS_PATH = os.path.join(CURRENT_PATH, 'model/output/status_1.txt')
