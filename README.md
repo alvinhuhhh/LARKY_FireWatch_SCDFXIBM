@@ -2,7 +2,7 @@
 ### Team Members: 
 Leona, Alvin, Ronnie, Kexin, Yongjia
 ## **Contents**
-1. Short Description
+1. [Short Description](#short-description)
 2. Pitch Video
 3. Architecture of solution
 4. Hyperlink to detailed solution
