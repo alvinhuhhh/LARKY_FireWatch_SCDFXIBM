@@ -46,6 +46,9 @@ Our group proposes to leverage a network of smart infrastructure consisting of a
 #
 ## 4. **Hyperlink to detailed solution**
 
+[More details here](https://github.com/alvinhuhhh/LARKY_FireWatch_SCDFXIBM/blob/master/detailed_solution.txt)
+
+#
 ## 5. **Getting started** 
 
 #### Prerequisites:
