@@ -110,7 +110,7 @@ Assuming terminal three is in our UI machine. Navigate to "ui_src" and run "retr
 
 ```
 cd ui_srcpython 
-retrieve.py 
+python retrieve.py 
 ```
 
 This script will retrieve the files from Firebase. In our full scope, there will be many location and status file, but for the demo, we assume there is
