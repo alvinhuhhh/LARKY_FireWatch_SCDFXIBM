@@ -34,6 +34,8 @@ Our group proposes to leverage a network of smart infrastructure consisting of a
 
 ## 2. **Pitch Video**
 
+https://www.youtube.com/watch?v=XdWDxOQilw8&feature=youtu.be
+
 ## 3. **Architecture of solution** 
 
 ![alt text][logo]
