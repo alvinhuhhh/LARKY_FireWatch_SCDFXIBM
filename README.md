@@ -66,7 +66,7 @@ Git clone the repo and change directory into it. pip install the package in 'req
 ```
 cd <directory to clone>
 git clone https://github.com/alvinhuhhh/LARKY_FireWatch_SCDFXIBM.git
-cd LARKY_SCDFXIBM
+cd LARKY_FireWatch_SCDFXIBM
 pip install -r requirement.txt
 ``` 
 
@@ -90,7 +90,7 @@ the image as "location_ID.jpg", where ID is a number to identify the location. F
 After running the python script, it will compare the photo against our model trained to identify fires in photos. The script will then output a "location_1.png" 
 and "status_1.txt" to the "detector_src/tflite_interpreter/basic/model/output" directory.
 
-The "status_1.txt" will contain a "1" if a fire is detected in the photo, or a "0" if the fire is not detector. The "location_1.png" file will contain the 
+The "status_1.txt" will contain a "1" if a fire is detected in the photo, or a "0" if the fire is not detected. The "location_1.png" file will contain the 
 original photo with the detection frame to show whether there is a fire. 
 #
 #### Upload Script
@@ -117,8 +117,7 @@ This script will retrieve the files from Firebase. In our full scope, there will
 only one location and status. The script will first download the status.txt and check if it contains a "1" or "0". If it contains a "1", it shows that
 there is fire detected in the photo and the script will then download the photo as well.
 
-Next, open the "index.html" file in a browser. This will show a list of location. A green tick will indicate that the status of that location is 0, 
-while a photo will indicate that there is fire detected in the location.
+Next, open the "index.html" file in a browser. This will show a list of location. A green tick will indicate that there is no fire detected at the location, while a photo will indicate that there is fire detected in the location.
 
 This concludes a full flow demo of our web alert system. To test it with other photos, you can add any photo in the 
 "detector_src/tflite_interpreter/basic/model/images" directory and rename it location_1.jpg to try. Take note that the script runs indefinitely so you do not have to restart the script, as it will auto update in a timed-interval. After about 1 minute, refresh the HTML UI to see the changes. 
@@ -131,5 +130,5 @@ This concludes a full flow demo of our web alert system. To test it with other p
 
 * IBM Cloud Object Storage for storing data used to train our machine learning model.
 
-* Firebase Cloud storage for image data to be uploaded to
+* Firebase Cloud storage for image data to be uploaded and downloaded
 #
