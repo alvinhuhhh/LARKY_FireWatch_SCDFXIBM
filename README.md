@@ -117,7 +117,7 @@ This concludes a full flow demo of our web alert system. To test it with other p
 "detector_src/tflite_interpreter/basic/model/images" directory and rename it location_1.jpg to try. Take note that the script runs indefinitely so you do not have to restart the script, as it will auto update in a timed-interval. After about 1 minute, refresh the HTML UI to see the changes. 
 
 #
-## 6. **What your team used to build your solution** (e.g. IBM Cloudant, IBM Cloud Functions, etc...)
+## 6. **What your team used to build your solution** 
 * IBM Watson Machine Learning instance.
 
 * IBM Cloud Annotations for localisation and detection.
@@ -125,5 +125,4 @@ This concludes a full flow demo of our web alert system. To test it with other p
 * IBM Cloud Object Storage for storing data used to train our machine learning model.
 
 * Firebase Cloud storage for image data to be uploaded to
-
-## *Items marked with an asterisk are compulsory
+#
