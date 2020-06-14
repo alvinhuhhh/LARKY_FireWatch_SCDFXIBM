@@ -122,7 +122,7 @@ Next, open the "index.html" file in a browser. This will show a list of location
 This concludes a full flow demo of our web alert system. To test it with other photos, you can add any photo in the 
 "detector_src/tflite_interpreter/basic/model/images" directory and rename it location_1.jpg to try. Take note that the script runs indefinitely so you do not have to restart the script, as it will auto update in a timed-interval. After about 1 minute, refresh the HTML UI to see the changes. 
 
-## Please note that the HTML is designed to work best in google chrome, and the Firebase authentication given in the code will only work till end of July, after which we will delete the storage bucket created for this demo. ##
+Please note that the HTML is designed to work best in google chrome, and the Firebase authentication given in the code will only work till end of July, after which we will delete the storage bucket created for this demo. 
 
 #
 ## 6. **What our team used to build our solution** 
