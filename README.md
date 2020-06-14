@@ -109,7 +109,7 @@ This python script will make use of pyrebase and upload the "location_1.png" and
 Assuming terminal three is in our UI machine. Navigate to "ui_src" and run "retrieve.py"
 
 ```
-cd ui_srcpython 
+cd ui_src 
 python retrieve.py 
 ```
 
