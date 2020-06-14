@@ -49,7 +49,9 @@ Our group proposes to leverage a network of smart infrastructure consisting of a
 ## 5. **Getting started** (Step-by-step instructions to install the required software and how to run a demo of your solution)
 
 ## 6. **What your team used to build your solution** (e.g. IBM Cloudant, IBM Cloud Functions, etc...)
-IBM Watson Machine Learning for localisation and detection.
+IBM Watson Machine Learning instance.
+
+IBM Cloud Annotations for localisation and detection.
 
 IBM Cloud Object Storage for storing data used to train our machine learning model.
 
