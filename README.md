@@ -1,8 +1,12 @@
 ## LARKY
+
+Github repo for SCDF X IBM Lifesavers’ Innovation Challenge: Call for Code 2020
+
 ### Team Members: 
 Leona, Alvin, Ronnie, Kexin, Yongjia
+
 ## **Contents**
-1. [Short Description](#short-description)
+1. Short Description
 2. Pitch Video
 3. Architecture of solution
 4. Hyperlink to detailed solution
