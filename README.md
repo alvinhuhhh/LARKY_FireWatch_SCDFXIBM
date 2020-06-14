@@ -60,10 +60,10 @@ pip, python and pyrebase must be installed before the start of the demo.
 Git clone the repo and change directory into it. pip install the package in 'requirement.txt' 
 
 ```
-[cd <directory to clone>
-git clone https://github.com/alvinhuhhh/LARKY_SCDFXIBM.git
+cd <directory to clone>
+git clone https://github.com/alvinhuhhh/LARKY_FireWatch_SCDFXIBM.git
 cd LARKY_SCDFXIBM
-pip install -r requirement.txt]
+pip install -r requirement.txt
 ``` 
 
 #### Running the Demo
@@ -74,10 +74,10 @@ First, open three terminals. Terminal 1 will run a "python-tflite.py", Terminal 
 #### Detector Script
 In terminal one, navigate to "detector_src/tflite_interpreter/basic" and run "python-tflite.py"
 
-` [
+` 
 cd detector_src/tflite_interpreter/basic
 python python-tflite.py
-]`
+`
 
 In our full scope, a camera will take a photo of the location and upload to the "detector_src_tflite_interpreter/basic/model/images" directory and store
 the image as "location_ID.jpg", where ID is a number to identify the location. For demo purposes and hardware limitation, we provided an example photo
@@ -93,10 +93,10 @@ original photo with the detection frame to show whether there is a fire.
 
 In terminal two, navigate to "detector_src/tflite_interpreter/basic/model/output" and run "cloud.py"
 
-` [
+` 
 cd detector_src/tflite_interpreter/basic/model/output
 python cloud.py
-]`
+`
 
 This python script will make use of pyrebase and upload the "location_1.png" and "status_1.txt" file into Firebase storage, to be retrieved by the UI-side.
 #
@@ -104,7 +104,8 @@ This python script will make use of pyrebase and upload the "location_1.png" and
 
 Assuming terminal three is in our UI machine. Navigate to "ui_src" and run "retrieve.py"
 
-`[ cd ui_srcpython retrieve.py ]`
+`cd ui_srcpython 
+ retrieve.py `
 
 This script will retrieve the files from Firebase. In our full scope, there will be many location and status file, but for the demo, we assume there is
 only one location and status. The script will first download the status.txt and check if it contains a "1" or "0". If it contains a "1", it shows that
